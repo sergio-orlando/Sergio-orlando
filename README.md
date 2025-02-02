@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Sergio Orlando
 
-<!--
-**sergio-orlando/Sergio-orlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Enterprise SaaS Sales | DevOps & Cloud Solutions | Strategic Account Executive**  
+💡 Passionate about **helping businesses scale software development with AI-driven DevOps tools like GitHub**  
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/orlando-sergio/)  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
+- 💼 Experienced in **Enterprise Sales, SaaS/PaaS, DevSecOps & CI/CD adoption**  
+- 📈 Helped businesses drive **$2M+ in annual revenue growth** through strategic account management  
+- 🌍 Worked with **Microsoft Azure, AWS, and GitHub-like software solutions**  
+- 🏆 Expertise in **MEDDPICC, Challenger Sale, and Account-Based Selling**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I Do  
+✔ **Consultative Sales for Developer Tools & AI-powered DevOps Solutions**  
+✔ **Strategic Pipeline Management & High-Value SaaS Deals**  
+✔ **Helping Engineering Teams Streamline Software Deployment**  
+
+## 📫 Get in Touch  
+💼 **LinkedIn:** [linkedin.com/in/orlando-sergio/](https://linkedin.com/in/orlando-sergio/)  
+📩 **Email:** sergio.t.orlando@gmail.com  
